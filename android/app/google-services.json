@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "847991656194",
+    "firebase_url": "https://wouldulikedbaa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wouldulikedbaa",
+    "storage_bucket": "wouldulikedbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847991656194:android:5261b9be08a58246ea7c1b",
+        "android_client_info": {
+          "package_name": "com.example.wouldulike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhL2crUTiQmH6Zc8AUZBV5Q3ijFybEZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847991656194:android:240d78b2a61cabf9ea7c1b",
+        "android_client_info": {
+          "package_name": "com.wouldulikedbaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhL2crUTiQmH6Zc8AUZBV5Q3ijFybEZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847991656194:android:327aed39946df7fcea7c1b",
+        "android_client_info": {
+          "package_name": "com.wouldulikedbab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhL2crUTiQmH6Zc8AUZBV5Q3ijFybEZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
